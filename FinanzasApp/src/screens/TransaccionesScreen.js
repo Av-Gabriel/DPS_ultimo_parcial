@@ -109,7 +109,7 @@ export default function TransaccionesScreen() {
             </View>
             <View style={styles.itemRight}>
                 <Text style={[styles.itemMonto, item.tipo === 'ingreso' ? styles.ingreso : styles.gasto]}>
-                    {item.tipo === 'ingreso' ? '+' : '-'}${item.monto.toFixed(2)}
+                    {item.tipo === 'ingreso' ? '+' : '-'}${parseFloat(item.monto || 0).toFixed(2)}
                 </Text>
                 <TouchableOpacity onPress={() => eliminarTransaccion(item.id)}>
                     <Text style={styles.deleteText}>🗑️</Text>

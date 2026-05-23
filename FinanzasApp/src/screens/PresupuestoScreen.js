@@ -105,7 +105,7 @@ export default function PresupuestoScreen() {
                     <View style={styles.itemContainer}>
                         <Text style={styles.itemCategoria}>{item.categoria}</Text>
                         <View style={styles.itemRight}>
-                            <Text style={styles.itemLimite}>${item.limite.toFixed(2)}</Text>
+                            <Text style={styles.itemLimite}>${parseFloat(item.limite || 0).toFixed(2)}</Text>
                             <TouchableOpacity onPress={() => eliminarPresupuesto(item.id)}>
                                 <Text style={styles.deleteText}>🗑️</Text>
                             </TouchableOpacity>
