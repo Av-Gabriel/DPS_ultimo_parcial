@@ -1,0 +1,1 @@
+export const API_URL = 'TU_IP:3000';
