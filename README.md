@@ -104,21 +104,21 @@ La aplicación móvil consume una API REST desarrollada con Express, encargada d
 
 ## Características principales
 
-✅ CRUD completo de transacciones
+ CRUD completo de transacciones
 
-✅ Gestión de múltiples cuentas
+ Gestión de múltiples cuentas
 
-✅ Dashboard financiero
+ Dashboard financiero
 
-✅ Persistencia de sesión
+ Persistencia de sesión
 
-✅ API REST propia
+ API REST propia
 
-✅ Base de datos MySQL
+ Base de datos MySQL
 
-✅ Navegación mediante Tabs y Stack Navigation
+ Navegación mediante Tabs y Stack Navigation
 
-✅ Interfaz móvil responsive
+ Interfaz móvil responsive
 
 ---
 
