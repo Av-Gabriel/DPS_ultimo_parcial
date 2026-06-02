@@ -199,12 +199,12 @@ Ciclo 01 - 2026
 
 Estado del proyecto
 
-✔️ Proyecto funcional
+ Proyecto funcional
 
-✔️ Integración completa entre frontend y backend
+ Integración completa entre frontend y backend
 
-✔️ Persistencia de datos en MySQL
+ Persistencia de datos en MySQL
 
-✔️ Dashboard operativo
+ Dashboard operativo
 
-✔️ Gestión de transacciones, cuentas y presupuestos
+ Gestión de transacciones, cuentas y presupuestos
