@@ -162,7 +162,7 @@ npx expo start
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 FinanzasApp
